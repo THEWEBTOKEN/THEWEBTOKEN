@@ -4,7 +4,7 @@ pragma solidity ^0.4.20;
 contract TRC20 {
     string public name;
     string public symbol;
-    uint8 public decimals = 8;
+    uint8 public decimals = 18;
     uint256 public totalSupply;
 
     
